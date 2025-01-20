@@ -7,6 +7,7 @@
 3. [Коллекция методов SOAP](https://www.postman.com/lexi65739/workspace/soap/collection/39696734-109de79c-8a4d-4785-9ce3-8c28378452ee?action=share&creator=39696734)
 
    Создание коллекции в Postman для тестирования [CountryIfoService](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL), который позволяет получать информацию о целевой стране.
+4. [Тест кейсы для тестирования API](https://github.com/LSalakhova/api/blob/main/API%20Testing.%20Liaisan%20Salakhova.pdf)
    
 
   
