@@ -1,4 +1,4 @@
-# 👷 REST and SOAP API testing via Postman
+# 👷 REST and SOAP API testing
 
 1. I tested all methods that are provided for [Swagger](https://petstore.swagger.io/) in Postman for [Demoshopping.ru](https://demoshopping.ru/) and created the corresponding collections:
    * [Postman Collection: REST](https://www.postman.com/lexi65739/demoshopping/collection/wcucc3c/demoshopping?action=share&creator=39696734&active-environment=39696734-0a6302c1-fb1e-4a6d-b8d5-ad2d73ae2b3f) - Showcasing all methods according to the documentation in Swagger and writing automated tests.
